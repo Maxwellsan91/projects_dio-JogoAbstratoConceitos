@@ -1,0 +1,16 @@
+C:\Users\3MW\JogoAbst\bin\Debug\net5.0\JogoAbst.exe
+C:\Users\3MW\JogoAbst\bin\Debug\net5.0\JogoAbst.deps.json
+C:\Users\3MW\JogoAbst\bin\Debug\net5.0\JogoAbst.runtimeconfig.json
+C:\Users\3MW\JogoAbst\bin\Debug\net5.0\JogoAbst.runtimeconfig.dev.json
+C:\Users\3MW\JogoAbst\bin\Debug\net5.0\JogoAbst.dll
+C:\Users\3MW\JogoAbst\bin\Debug\net5.0\ref\JogoAbst.dll
+C:\Users\3MW\JogoAbst\bin\Debug\net5.0\JogoAbst.pdb
+C:\Users\3MW\JogoAbst\obj\Debug\net5.0\JogoAbst.csproj.AssemblyReference.cache
+C:\Users\3MW\JogoAbst\obj\Debug\net5.0\JogoAbst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3MW\JogoAbst\obj\Debug\net5.0\JogoAbst.AssemblyInfoInputs.cache
+C:\Users\3MW\JogoAbst\obj\Debug\net5.0\JogoAbst.AssemblyInfo.cs
+C:\Users\3MW\JogoAbst\obj\Debug\net5.0\JogoAbst.csproj.CoreCompileInputs.cache
+C:\Users\3MW\JogoAbst\obj\Debug\net5.0\JogoAbst.dll
+C:\Users\3MW\JogoAbst\obj\Debug\net5.0\ref\JogoAbst.dll
+C:\Users\3MW\JogoAbst\obj\Debug\net5.0\JogoAbst.pdb
+C:\Users\3MW\JogoAbst\obj\Debug\net5.0\JogoAbst.genruntimeconfig.cache
